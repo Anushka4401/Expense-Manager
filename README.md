@@ -35,4 +35,3 @@ A full-stack Expense Management application built using the **MERN** stack (Mong
 
 --- 
 
-This concise description highlights the tech stack, core features, and setup instructions for your project. Let me know if you'd like any tweaks or additional details!
