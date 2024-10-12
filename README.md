@@ -1,4 +1,4 @@
-Here’s a concise GitHub project description for your **Expense Management Application** (MERN Stack, no JWT):
+
 
 ---
 
